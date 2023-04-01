@@ -1,0 +1,1 @@
+# This is sample test file to test the gt commands for this bank.
